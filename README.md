@@ -12,7 +12,7 @@
 
 
 ### This App using  
-- google Oauth  
+- google OAuth  
 - lodash  
 - redux  
 - portal  
@@ -22,8 +22,8 @@
 ### `quick start`  
 - open two terminal  
     - client - navigate to App directory `/client`  
-    - JSON-Server and navigate to App directory `/api`
-- run `npm start` on both:  
+    - JSON-Server - navigate to App directory `/api`
+- run `npm start` on both  
 
 #### refernce
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
