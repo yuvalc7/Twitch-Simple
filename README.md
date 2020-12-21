@@ -19,6 +19,13 @@
 - react-router  
 - JSON-Server     
 
-### `quick start`
+### `quick start`  
+- open two terminal  
+    - client - navigate to App directory `/client`  
+    - JSON-Server and navigate to App directory `/api`
+- run `npm start` on both:  
+
+#### refernce
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
