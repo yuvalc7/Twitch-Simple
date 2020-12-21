@@ -12,13 +12,13 @@
 
 
 This App using
-      -  google Oauth  
-      -  lodash  
-      -  redux  
-      -  portal  
-      -  react-router  
-      -  JSON-Server   
+      - google Oauth  
+      - lodash  
+      - redux  
+      - portal  
+      - react-router  
+      - JSON-Server   
 
-##   Quick start
+### `quick start`
 
 
