@@ -2,7 +2,7 @@
 
 ## About the App 
  a clone of web application Twitch TV   
- #logged in user vs not logged in  
+ ### logged in user vs not logged in  
  logged in : 
             - create unlimited streams  
             - edit and delete stream  
@@ -12,12 +12,12 @@
 
 
 This App using
-      -  google Oauth
-      -  lodash
-      -  redux
-      -  portal
-      -  react-router
-      -  JSON-Server 
+      -  google Oauth  
+      -  lodash  
+      -  redux  
+      -  portal  
+      -  react-router  
+      -  JSON-Server   
 
 ##   Quick start
 
