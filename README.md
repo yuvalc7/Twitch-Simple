@@ -13,6 +13,7 @@
 
 ### This App using  
 - google OAuth  
+- semantic-ui
 - lodash  
 - redux  
 - portal  
