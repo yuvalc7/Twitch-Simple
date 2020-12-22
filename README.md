@@ -20,10 +20,11 @@
 - JSON-Server     
 
 ### `quick start`  
-- open two terminal  
+- open 3 terminal  
     - client - navigate to App directory `/client`  
-    - JSON-Server - navigate to App directory `/api`
-- run `npm start` on both  
+    - JSON-Server - navigate to App directory `/api`  
+    - rtmpserver - navigate to App directory `/rtmpserver`
+- run `npm start` in all three  
 
 #### refernce
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
