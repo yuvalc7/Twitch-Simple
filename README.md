@@ -1,5 +1,5 @@
 ## About the App 
- a clone of web application Twitch TV   
+ A clone of web application Twitch TV   
  
  ### logged in vs not logged in  
    logged in :  
